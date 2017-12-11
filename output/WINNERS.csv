@@ -1,0 +1,25 @@
+,Stat,Driver,Vehicle,Tire,Glider,Value
+0,GroundSpeed,Bowser,Standard Quad,Metal,Waddle Wing,5.75
+1,WaterSpeed,Bowser,Landship,Off-Road,Cloud Glider,5.75
+2,AirSpeed,Dry Bowser,Cat Cruiser,Sponge,Wario Wing,5.75
+3,AntiGravitySpeed,Bowser,Sports Coupé,Cyber Slick,Flower Glider,5.75
+4,Acceleration,Baby Rosalina,Buggybud,Azure Roller,Parafoil,5.75
+5,Weight,Bowser,Steel Driver,Metal,Gold Glider,5.75
+6,GroundHandling,Baby Daisy,Buggybud,Azure Roller,Bowser Kite,5.75
+7,WaterHandling,Baby Daisy,Landship,Wooden,Gold Glider,5.75
+8,AirHandling,Baby Daisy,Buggybud,Azure Roller,Bowser Kite,5.75
+9,AntiGravityHandling,Baby Daisy,Blue Falcon,Azure Roller,Flower Glider,5.75
+10,Traction,Koopa Troopa,Koopa Clown,Monster,Flower Glider,5.75
+11,MiniTurbo,Baby Daisy,Buggybud,Azure Roller,Bowser Kite,5.75
+12,Total,Metal Mario,Koopa Clown,Roller,Paper Glider,46.0
+13,Balance,Luigi,Standard Quad,Roller,Bowser Kite,4.8694417580332265
+14,AverageSpeed,Dry Bowser,Mach 8,Wooden,Hylian Kite,5.125
+15,WeightedSpeed,Dry Bowser,Sports Coupé,Wooden,Plane Glider,5.15
+16,AverageHandling,Baby Daisy,Buggybud,Azure Roller,Bowser Kite,5.625
+17,WeightedHandling,Baby Daisy,Buggybud,Azure Roller,Paper Glider,5.65
+18,GroundMastery,Luigi,Sport Bike+,Crimson Slim,Waddle Wing,4.125
+19,WaterMastery,Dry Bowser,Landship,Roller,Parafoil,4.375
+20,AirMastery,Metal Mario,Comet+,Azure Roller,Flower Glider,4.375
+21,AntiGravityMastery,Metal Mario,Inkstriker,Wooden,Paper Glider,4.375
+22,DriftMastery,Baby Daisy,Buggybud,Azure Roller,Paper Glider,5.208333333333333
+23,CollisionMastery,Metal Mario,Tanooki Kart,Gold Wheels,Gold Glider,4.375
