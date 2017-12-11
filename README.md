@@ -11,7 +11,7 @@ vehicle, tires, and glider.
 ## Getting Started #
 
 If you clone this repository, you can use the CSVs for reference or add
-your own Jupyter notebooks for do additional analysis.
+your own Jupyter notebooks for doing additional analysis.
 
 ### Prerequisites #
 
@@ -39,7 +39,7 @@ these are the steps to rebuild the data.
 1. Run the notebook [MakeCombos](./MakeCombos.ipynb). It will take a long time as it is building every possible combination (over 400,000 possibilities).
 1. Run the notebook [AdditionalScores](./AdditionalScores.ipynb). This adds several derived stats to the data.
 1. Run the notebook [Minimize](./Minimize.ipynb). This reduces the data from 400,000 records to just 9,000 records, because there are many combinations that have identical stats. The filtered version reduces identical combinations based on my personal favorite characters out of every identity grouping, then randomly selecting vehicle, tire, and glider.
-1. Run the notebook [Samples](./Samples.ipynb). This displays a 5-row random sample of every source and output file. The exceptions is `WINNERS.csv`, which is displayed in full.
+1. Run the notebook [Samples](./Samples.ipynb). This displays a 5-row random sample of every source and output file. The exception is `WINNERS.csv`, which is displayed in full.
 
 **Source Files**
 
