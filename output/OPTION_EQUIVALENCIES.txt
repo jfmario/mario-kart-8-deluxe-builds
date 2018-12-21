@@ -1,0 +1,50 @@
+Drivers: 
+Buggybud = Mr Scooty
+Pipe Frame = Varmint = City Tripper
+Landship = Streetle
+W 25 Silver Arrow = Standard Bike = Flame Rider = Wild Wiggler
+Cat Cruiser = Comet+ = Yoshi Bike+ = Teddy Buggy
+Tanooki Kart = Koopa Clown
+Standard Kart = 300 SL Roadster = The Duke
+Mach 8 = Sports Coupé = Inkstriker
+Bounder = Gold Kart = Master Cycle+
+Blue Falcon = Splat Buggy
+Prancer = Sport Bike+ = Jet Bike+
+Steel Driver = Tri-Speeder = Bone Rattler
+Circuit Special = B Dasher = P-Wing
+Badwagon = GLA = Standard Quad
+
+Vehicles: 
+Buggybud = Mr Scooty
+Pipe Frame = Varmint = City Tripper
+Landship = Streetle
+W 25 Silver Arrow = Standard Bike = Flame Rider = Wild Wiggler
+Cat Cruiser = Comet+ = Yoshi Bike+ = Teddy Buggy
+Tanooki Kart = Koopa Clown
+Standard Kart = 300 SL Roadster = The Duke
+Mach 8 = Sports Coupé = Inkstriker
+Bounder = Gold Kart = Master Cycle+
+Blue Falcon = Splat Buggy
+Prancer = Sport Bike+ = Jet Bike+
+Steel Driver = Tri-Speeder = Bone Rattler
+Circuit Special = B Dasher = P-Wing
+Badwagon = GLA = Standard Quad
+
+Tires: 
+Roller = Azure Roller
+Cushion
+Sponge
+Button = Leaf Tyres
+Monster = Funky Monster
+Normal = Normal Blue = GLA Wheels
+Slim = Wooden = Crimson Slim
+Off-Road
+Retro Off-Road = Triforce Tyres
+Slick = Cyber Slick
+Metal = Gold Wheels
+
+Gliders: 
+Peach Parasol = Parafoil = Bowser Kite = MKTV Parafoil
+Cloud Glider = Parachute = Flower Glider = Paper Glider
+Wario Wing = Plane Glider = Gold Glider
+Super Glider = Waddle Wing = Hylian Kite

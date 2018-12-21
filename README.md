@@ -39,6 +39,7 @@ these are the steps to rebuild the data.
 1. Run the notebook [MakeCombos](./MakeCombos.ipynb). It will take a long time as it is building every possible combination (over 400,000 possibilities).
 1. Run the notebook [AdditionalScores](./AdditionalScores.ipynb). This adds several derived stats to the data.
 1. Run the notebook [Minimize](./Minimize.ipynb). This reduces the data from 400,000 records to just 9,000 records, because there are many combinations that have identical stats. The filtered version reduces identical combinations based on my personal favorite characters out of every identity grouping, then randomly selecting vehicle, tire, and glider.
+1. Run the notebook [Standardize](.Standardize.ipynb). This changes the ouput of the Minimize file from random vehicle, tire and glider, to a standard choice from each group that have the same stats. For example, Roller and Azure Roller tires have the same stats, so all Azure Roller tires are changed to Roller tires.
 1. Run the notebook [Samples](./Samples.ipynb). This displays a 5-row random sample of every source and output file. The exception is `WINNERS.csv`, which is displayed in full.
 
 **Source Files**
@@ -54,6 +55,9 @@ these are the steps to rebuild the data.
 * `output/COMBOS_EXTRA.csv`: Basic and derived stats for all combinations.
 * `output/MINIFIED.csv`: Basic and derived stats with stat duplicates filtered out.
 * `output/WINNERS.csv`: The best combination according to each basic and derived stat.
+* `output/MINIFIED_STANDARDIZED.csv`: MINIFIED file with vehicles, tires and gliders standardized.
+* `output/WINNERS_STANDARDIZED.csv`: WINNERS file with vehicles, tires and gliders standardized.
+* `output/OPTION_EQUIVALENCIES.txt`: Shows which drivers, vehicles, tires and gliders are equivalent to each other.
 
 **Stats**
 
