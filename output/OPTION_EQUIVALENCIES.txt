@@ -1,18 +1,20 @@
 Drivers: 
-Buggybud = Mr Scooty
-Pipe Frame = Varmint = City Tripper
-Landship = Streetle
-W 25 Silver Arrow = Standard Bike = Flame Rider = Wild Wiggler
-Cat Cruiser = Comet+ = Yoshi Bike+ = Teddy Buggy
-Tanooki Kart = Koopa Clown
-Standard Kart = 300 SL Roadster = The Duke
-Mach 8 = Sports Coupé = Inkstriker
-Bounder = Gold Kart = Master Cycle+
-Blue Falcon = Splat Buggy
-Prancer = Sport Bike+ = Jet Bike+
-Steel Driver = Tri-Speeder = Bone Rattler
-Circuit Special = B Dasher = P-Wing
-Badwagon = GLA = Standard Quad
+Baby Peach = Baby Daisy
+Baby Rosalina = Lemmy
+Baby Mario = Baby Luigi = Dry Bones
+Koopa Troopa = Lakitu = Bowser Jr.
+Toadette = Wendy = Isabelle
+Toad = Shy Guy = Larry
+Cat Peach = Inkling (F) = Villager (F)
+Peach = Daisy = Yoshi
+Tanooki Mario = Inkling (M) = Villager (M)
+Mario = Ludwig
+Luigi = Iggy
+Rosalina = King Boo = Link
+Metal Mario = Pink Gold Peach
+Donkey Kong = Waluigi = Roy
+Wario = Dry Bowser
+Bowser = Morton
 
 Vehicles: 
 Buggybud = Mr Scooty
