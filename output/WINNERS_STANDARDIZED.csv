@@ -1,0 +1,25 @@
+,Stat,Driver,Vehicle,Tire,Glider,Value
+0,GroundSpeed,Bowser,Badwagon,Metal,Super Glider,5.75
+1,WaterSpeed,Bowser,Landship,Off-Road,Cloud Glider,5.75
+2,AirSpeed,Dry Bowser,Cat Cruiser,Sponge,Wario Wing,5.75
+3,AntiGravitySpeed,Bowser,Mach 8,Slick,Cloud Glider,5.75
+4,Acceleration,Baby Rosalina,Buggybud,Roller,Peach Parasol,5.75
+5,Weight,Bowser,Steel Driver,Metal,Wario Wing,5.75
+6,GroundHandling,Baby Daisy,Buggybud,Roller,Peach Parasol,5.75
+7,WaterHandling,Baby Daisy,Landship,Slim,Wario Wing,5.75
+8,AirHandling,Baby Daisy,Buggybud,Roller,Peach Parasol,5.75
+9,AntiGravityHandling,Baby Daisy,Blue Falcon,Roller,Cloud Glider,5.75
+10,Traction,Koopa Troopa,Tanooki Kart,Monster,Cloud Glider,5.75
+11,MiniTurbo,Baby Daisy,Buggybud,Roller,Peach Parasol,5.75
+12,Total,Metal Mario,Tanooki Kart,Roller,Cloud Glider,46.0
+13,Balance,Luigi,Badwagon,Roller,Peach Parasol,4.8694417580332265
+14,AverageSpeed,Dry Bowser,Mach 8,Slim,Super Glider,5.125
+15,WeightedSpeed,Dry Bowser,Mach 8,Slim,Wario Wing,5.15
+16,AverageHandling,Baby Daisy,Buggybud,Roller,Peach Parasol,5.625
+17,WeightedHandling,Baby Daisy,Buggybud,Roller,Cloud Glider,5.65
+18,GroundMastery,Luigi,Prancer,Slim,Super Glider,4.125
+19,WaterMastery,Dry Bowser,Landship,Roller,Peach Parasol,4.375
+20,AirMastery,Metal Mario,Cat Cruiser,Roller,Cloud Glider,4.375
+21,AntiGravityMastery,Metal Mario,Mach 8,Slim,Cloud Glider,4.375
+22,DriftMastery,Baby Daisy,Buggybud,Roller,Cloud Glider,5.208333333333333
+23,CollisionMastery,Metal Mario,Tanooki Kart,Metal,Wario Wing,4.375
